@@ -1,0 +1,24 @@
+{
+  "name": "kidtam",
+  "authors": [
+    "Sathaporn Samran <bbird_ss@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "isotope": "^3.0.1",
+    "imagesloaded": "^4.1.0"
+  }
+}
